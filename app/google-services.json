@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11017676505",
+    "firebase_url": "https://irma-2a62d.firebaseio.com",
+    "project_id": "irma-2a62d",
+    "storage_bucket": "irma-2a62d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11017676505:android:09e1b9a80409214f3dc0c8",
+        "android_client_info": {
+          "package_name": "com.caren.irma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11017676505-3hagsnojuil68teqa99tvmbt7eu8t1m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHSTdZwX4-r2Q8Vlwg95cOsLvyZ-fEgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11017676505-3hagsnojuil68teqa99tvmbt7eu8t1m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
